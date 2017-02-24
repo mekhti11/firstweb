@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Sansita:400i');
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+h1{
+  font-family: 'VT323', monospace;
+  font-style: oblique;
+  text-align: center;
+}
+
+img{
+  border: 1px solid black;
+}
+
+a:link,a:visited{
+  color: blue;
+}
+
+a:hover{
+  color: black;
+}
+
+a:active{
+  color: red;
+}
